@@ -1,0 +1,3395 @@
+{
+  "farms": [
+    {
+      "farm": "F01",
+      "distance_km": 7,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F02",
+      "distance_km": 11,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F03",
+      "distance_km": 15,
+      "baseline_grade": "B",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F04",
+      "distance_km": 19,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F05",
+      "distance_km": 23,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F06",
+      "distance_km": 27,
+      "baseline_grade": "B",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F07",
+      "distance_km": 31,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F08",
+      "distance_km": 35,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F09",
+      "distance_km": 3,
+      "baseline_grade": "B",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F10",
+      "distance_km": 7,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F11",
+      "distance_km": 11,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F12",
+      "distance_km": 15,
+      "baseline_grade": "B",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F13",
+      "distance_km": 19,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F14",
+      "distance_km": 23,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-09-15",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F15",
+      "distance_km": 27,
+      "baseline_grade": "B",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F16",
+      "distance_km": 31,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F17",
+      "distance_km": 35,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F18",
+      "distance_km": 3,
+      "baseline_grade": "B",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F19",
+      "distance_km": 7,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F20",
+      "distance_km": 11,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F21",
+      "distance_km": 15,
+      "baseline_grade": "B",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F22",
+      "distance_km": 19,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F23",
+      "distance_km": 23,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F24",
+      "distance_km": 27,
+      "baseline_grade": "B",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F25",
+      "distance_km": 31,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F26",
+      "distance_km": 35,
+      "baseline_grade": "A",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F27",
+      "distance_km": 3,
+      "baseline_grade": "B",
+      "enrolled_on": "2026-10-10",
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F28",
+      "distance_km": 7,
+      "baseline_grade": "A",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F29",
+      "distance_km": 11,
+      "baseline_grade": "A",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F30",
+      "distance_km": 15,
+      "baseline_grade": "B",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F31",
+      "distance_km": 19,
+      "baseline_grade": "A",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F32",
+      "distance_km": 23,
+      "baseline_grade": "A",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F33",
+      "distance_km": 27,
+      "baseline_grade": "B",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F34",
+      "distance_km": 31,
+      "baseline_grade": "A",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F35",
+      "distance_km": 35,
+      "baseline_grade": "A",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F36",
+      "distance_km": 3,
+      "baseline_grade": "B",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F37",
+      "distance_km": 7,
+      "baseline_grade": "A",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F38",
+      "distance_km": 11,
+      "baseline_grade": "A",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F39",
+      "distance_km": 15,
+      "baseline_grade": "B",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    },
+    {
+      "farm": "F40",
+      "distance_km": 19,
+      "baseline_grade": "A",
+      "enrolled_on": null,
+      "recorded_at": "2026-09-01"
+    }
+  ],
+  "batches": [
+    {
+      "batch_id": "B1-0",
+      "farm": "F01",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B1-1",
+      "farm": "F01",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B1-2",
+      "farm": "F01",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B1-3",
+      "farm": "F01",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B2-0",
+      "farm": "F02",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B2-1",
+      "farm": "F02",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B2-2",
+      "farm": "F02",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B2-3",
+      "farm": "F02",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B3-0",
+      "farm": "F03",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B3-1",
+      "farm": "F03",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B3-2",
+      "farm": "F03",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B3-3",
+      "farm": "F03",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B4-0",
+      "farm": "F04",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B4-1",
+      "farm": "F04",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B4-2",
+      "farm": "F04",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B4-3",
+      "farm": "F04",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B5-0",
+      "farm": "F05",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B5-1",
+      "farm": "F05",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B5-2",
+      "farm": "F05",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B5-3",
+      "farm": "F05",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B6-0",
+      "farm": "F06",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B6-1",
+      "farm": "F06",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B6-2",
+      "farm": "F06",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B6-3",
+      "farm": "F06",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B7-0",
+      "farm": "F07",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B7-1",
+      "farm": "F07",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B7-2",
+      "farm": "F07",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B7-3",
+      "farm": "F07",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B8-0",
+      "farm": "F08",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B8-1",
+      "farm": "F08",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B8-2",
+      "farm": "F08",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B8-3",
+      "farm": "F08",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B9-0",
+      "farm": "F09",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B9-1",
+      "farm": "F09",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B9-2",
+      "farm": "F09",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B9-3",
+      "farm": "F09",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B10-0",
+      "farm": "F10",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B10-1",
+      "farm": "F10",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B10-2",
+      "farm": "F10",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B10-3",
+      "farm": "F10",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B11-0",
+      "farm": "F11",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B11-1",
+      "farm": "F11",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B11-2",
+      "farm": "F11",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B11-3",
+      "farm": "F11",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B12-0",
+      "farm": "F12",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B12-1",
+      "farm": "F12",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B12-2",
+      "farm": "F12",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B12-3",
+      "farm": "F12",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B13-0",
+      "farm": "F13",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B13-1",
+      "farm": "F13",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B13-2",
+      "farm": "F13",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B13-3",
+      "farm": "F13",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B14-0",
+      "farm": "F14",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B14-1",
+      "farm": "F14",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B14-2",
+      "farm": "F14",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": true,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B14-3",
+      "farm": "F14",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B15-0",
+      "farm": "F15",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B15-1",
+      "farm": "F15",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B15-2",
+      "farm": "F15",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B15-3",
+      "farm": "F15",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B16-0",
+      "farm": "F16",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B16-1",
+      "farm": "F16",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B16-2",
+      "farm": "F16",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B16-3",
+      "farm": "F16",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B17-0",
+      "farm": "F17",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B17-1",
+      "farm": "F17",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B17-2",
+      "farm": "F17",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B17-3",
+      "farm": "F17",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B18-0",
+      "farm": "F18",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B18-1",
+      "farm": "F18",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B18-2",
+      "farm": "F18",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B18-3",
+      "farm": "F18",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B19-0",
+      "farm": "F19",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B19-1",
+      "farm": "F19",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B19-2",
+      "farm": "F19",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B19-3",
+      "farm": "F19",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B20-0",
+      "farm": "F20",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B20-1",
+      "farm": "F20",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B20-2",
+      "farm": "F20",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B20-3",
+      "farm": "F20",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B21-0",
+      "farm": "F21",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B21-1",
+      "farm": "F21",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B21-2",
+      "farm": "F21",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B21-3",
+      "farm": "F21",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B22-0",
+      "farm": "F22",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B22-1",
+      "farm": "F22",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B22-2",
+      "farm": "F22",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B22-3",
+      "farm": "F22",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B23-0",
+      "farm": "F23",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B23-1",
+      "farm": "F23",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B23-2",
+      "farm": "F23",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B23-3",
+      "farm": "F23",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B24-0",
+      "farm": "F24",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B24-1",
+      "farm": "F24",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B24-2",
+      "farm": "F24",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B24-3",
+      "farm": "F24",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B25-0",
+      "farm": "F25",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B25-1",
+      "farm": "F25",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B25-2",
+      "farm": "F25",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B25-3",
+      "farm": "F25",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B26-0",
+      "farm": "F26",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B26-1",
+      "farm": "F26",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B26-2",
+      "farm": "F26",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B26-3",
+      "farm": "F26",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B27-0",
+      "farm": "F27",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B27-1",
+      "farm": "F27",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B27-2",
+      "farm": "F27",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B27-3",
+      "farm": "F27",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B28-0",
+      "farm": "F28",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B28-1",
+      "farm": "F28",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B28-2",
+      "farm": "F28",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B28-3",
+      "farm": "F28",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B29-0",
+      "farm": "F29",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B29-1",
+      "farm": "F29",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B29-2",
+      "farm": "F29",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B29-3",
+      "farm": "F29",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B30-0",
+      "farm": "F30",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B30-1",
+      "farm": "F30",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B30-2",
+      "farm": "F30",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B30-3",
+      "farm": "F30",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B31-0",
+      "farm": "F31",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B31-1",
+      "farm": "F31",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B31-2",
+      "farm": "F31",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B31-3",
+      "farm": "F31",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B32-0",
+      "farm": "F32",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B32-1",
+      "farm": "F32",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B32-2",
+      "farm": "F32",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B32-3",
+      "farm": "F32",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B33-0",
+      "farm": "F33",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B33-1",
+      "farm": "F33",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B33-2",
+      "farm": "F33",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B33-3",
+      "farm": "F33",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B34-0",
+      "farm": "F34",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B34-1",
+      "farm": "F34",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B34-2",
+      "farm": "F34",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B34-3",
+      "farm": "F34",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B35-0",
+      "farm": "F35",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B35-1",
+      "farm": "F35",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B35-2",
+      "farm": "F35",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B35-3",
+      "farm": "F35",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B36-0",
+      "farm": "F36",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B36-1",
+      "farm": "F36",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B36-2",
+      "farm": "F36",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B36-3",
+      "farm": "F36",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B37-0",
+      "farm": "F37",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B37-1",
+      "farm": "F37",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B37-2",
+      "farm": "F37",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B37-3",
+      "farm": "F37",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B38-0",
+      "farm": "F38",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B38-1",
+      "farm": "F38",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B38-2",
+      "farm": "F38",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B38-3",
+      "farm": "F38",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B39-0",
+      "farm": "F39",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B39-1",
+      "farm": "F39",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B39-2",
+      "farm": "F39",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B39-3",
+      "farm": "F39",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "B",
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "batch_id": "B40-0",
+      "farm": "F40",
+      "dispatched_on": "2026-09-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-10"
+    },
+    {
+      "batch_id": "B40-1",
+      "farm": "F40",
+      "dispatched_on": "2026-09-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "batch_id": "B40-2",
+      "farm": "F40",
+      "dispatched_on": "2026-10-10",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-10"
+    },
+    {
+      "batch_id": "B40-3",
+      "farm": "F40",
+      "dispatched_on": "2026-10-25",
+      "input_kg": 100,
+      "precooled": false,
+      "initial_grade": "A",
+      "recorded_at": "2026-10-25"
+    }
+  ],
+  "followups": [
+    {
+      "followup_id": "B1-0",
+      "batch_id": "B1-0",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 25100,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B1-1",
+      "batch_id": "B1-1",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 25100,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B1-2",
+      "batch_id": "B1-2",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 25100,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B1-3",
+      "batch_id": "B1-3",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 25100,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B2-0",
+      "batch_id": "B2-0",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 25200,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B2-1",
+      "batch_id": "B2-1",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 25200,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B2-2",
+      "batch_id": "B2-2",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 25200,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B2-3",
+      "batch_id": "B2-3",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 25200,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B3-0",
+      "batch_id": "B3-0",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 25300,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B3-1",
+      "batch_id": "B3-1",
+      "lost_kg": 7,
+      "sold_kg": 87,
+      "revenue_cents": 25300,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B3-2",
+      "batch_id": "B3-2",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 25300,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B3-3",
+      "batch_id": "B3-3",
+      "lost_kg": 7,
+      "sold_kg": 87,
+      "revenue_cents": 25300,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B4-0",
+      "batch_id": "B4-0",
+      "lost_kg": 7,
+      "sold_kg": 86,
+      "revenue_cents": 25400,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B4-1",
+      "batch_id": "B4-1",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 25400,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B4-2",
+      "batch_id": "B4-2",
+      "lost_kg": 7,
+      "sold_kg": 86,
+      "revenue_cents": 25400,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B4-3",
+      "batch_id": "B4-3",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 25400,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B5-0",
+      "batch_id": "B5-0",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 25500,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B5-1",
+      "batch_id": "B5-1",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 25500,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B5-2",
+      "batch_id": "B5-2",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 25500,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B5-3",
+      "batch_id": "B5-3",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 25500,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B6-0",
+      "batch_id": "B6-0",
+      "lost_kg": 9,
+      "sold_kg": 84,
+      "revenue_cents": 25600,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B6-1",
+      "batch_id": "B6-1",
+      "lost_kg": 10,
+      "sold_kg": 84,
+      "revenue_cents": 25600,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B6-2",
+      "batch_id": "B6-2",
+      "lost_kg": 9,
+      "sold_kg": 84,
+      "revenue_cents": 25600,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B6-3",
+      "batch_id": "B6-3",
+      "lost_kg": 10,
+      "sold_kg": 84,
+      "revenue_cents": 25600,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B7-0",
+      "batch_id": "B7-0",
+      "lost_kg": 3,
+      "sold_kg": 90,
+      "revenue_cents": 25700,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B7-1",
+      "batch_id": "B7-1",
+      "lost_kg": 4,
+      "sold_kg": 90,
+      "revenue_cents": 25700,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B7-2",
+      "batch_id": "B7-2",
+      "lost_kg": 3,
+      "sold_kg": 90,
+      "revenue_cents": 25700,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B7-3",
+      "batch_id": "B7-3",
+      "lost_kg": 4,
+      "sold_kg": 90,
+      "revenue_cents": 25700,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B8-0",
+      "batch_id": "B8-0",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 25800,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B8-1",
+      "batch_id": "B8-1",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 25800,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B8-2",
+      "batch_id": "B8-2",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 25800,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B8-3",
+      "batch_id": "B8-3",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 25800,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B9-0",
+      "batch_id": "B9-0",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 25900,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B9-1",
+      "batch_id": "B9-1",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 25900,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B9-2",
+      "batch_id": "B9-2",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 25900,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B9-3",
+      "batch_id": "B9-3",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 25900,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B10-0",
+      "batch_id": "B10-0",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 26000,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B10-1",
+      "batch_id": "B10-1",
+      "lost_kg": 7,
+      "sold_kg": 87,
+      "revenue_cents": 26000,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B10-2",
+      "batch_id": "B10-2",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 26000,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B11-0",
+      "batch_id": "B11-0",
+      "lost_kg": 7,
+      "sold_kg": 86,
+      "revenue_cents": 26100,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B11-1",
+      "batch_id": "B11-1",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 26100,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B11-3",
+      "batch_id": "B11-3",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 26100,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B12-0",
+      "batch_id": "B12-0",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 26200,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B12-2",
+      "batch_id": "B12-2",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 26200,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B12-3",
+      "batch_id": "B12-3",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 26200,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B13-1",
+      "batch_id": "B13-1",
+      "lost_kg": 10,
+      "sold_kg": 84,
+      "revenue_cents": 26300,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B13-2",
+      "batch_id": "B13-2",
+      "lost_kg": 9,
+      "sold_kg": 84,
+      "revenue_cents": 26300,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B13-3",
+      "batch_id": "B13-3",
+      "lost_kg": 10,
+      "sold_kg": 84,
+      "revenue_cents": 26300,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B14-0",
+      "batch_id": "B14-0",
+      "lost_kg": 3,
+      "sold_kg": 90,
+      "revenue_cents": 26400,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B14-1",
+      "batch_id": "B14-1",
+      "lost_kg": 4,
+      "sold_kg": 90,
+      "revenue_cents": 26400,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B14-2",
+      "batch_id": "B14-2",
+      "lost_kg": 3,
+      "sold_kg": 90,
+      "revenue_cents": 26400,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B14-3",
+      "batch_id": "B14-3",
+      "lost_kg": 4,
+      "sold_kg": 90,
+      "revenue_cents": 26400,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B15-0",
+      "batch_id": "B15-0",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 26500,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B15-1",
+      "batch_id": "B15-1",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 26500,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B15-2",
+      "batch_id": "B15-2",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 26500,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B15-3",
+      "batch_id": "B15-3",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 26500,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B16-0",
+      "batch_id": "B16-0",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 26600,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B16-1",
+      "batch_id": "B16-1",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 26600,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B16-2",
+      "batch_id": "B16-2",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 26600,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B16-3",
+      "batch_id": "B16-3",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 26600,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B17-0",
+      "batch_id": "B17-0",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 26700,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B17-1",
+      "batch_id": "B17-1",
+      "lost_kg": 7,
+      "sold_kg": 87,
+      "revenue_cents": 26700,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B17-2",
+      "batch_id": "B17-2",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 26700,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B17-3",
+      "batch_id": "B17-3",
+      "lost_kg": 7,
+      "sold_kg": 87,
+      "revenue_cents": 26700,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B18-0",
+      "batch_id": "B18-0",
+      "lost_kg": 7,
+      "sold_kg": 86,
+      "revenue_cents": 26800,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B18-1",
+      "batch_id": "B18-1",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 26800,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B18-2",
+      "batch_id": "B18-2",
+      "lost_kg": 7,
+      "sold_kg": 86,
+      "revenue_cents": 26800,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B18-3",
+      "batch_id": "B18-3",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 26800,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B19-0",
+      "batch_id": "B19-0",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 26900,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B19-1",
+      "batch_id": "B19-1",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 26900,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B19-2",
+      "batch_id": "B19-2",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 26900,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B19-3",
+      "batch_id": "B19-3",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 26900,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B20-0",
+      "batch_id": "B20-0",
+      "lost_kg": 9,
+      "sold_kg": 84,
+      "revenue_cents": 27000,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B20-1",
+      "batch_id": "B20-1",
+      "lost_kg": 10,
+      "sold_kg": 84,
+      "revenue_cents": 27000,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B20-2",
+      "batch_id": "B20-2",
+      "lost_kg": 9,
+      "sold_kg": 84,
+      "revenue_cents": 27000,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B20-3",
+      "batch_id": "B20-3",
+      "lost_kg": 10,
+      "sold_kg": 84,
+      "revenue_cents": 27000,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B21-0",
+      "batch_id": "B21-0",
+      "lost_kg": 3,
+      "sold_kg": 90,
+      "revenue_cents": 27100,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B21-1",
+      "batch_id": "B21-1",
+      "lost_kg": 4,
+      "sold_kg": 90,
+      "revenue_cents": 27100,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B21-2",
+      "batch_id": "B21-2",
+      "lost_kg": 3,
+      "sold_kg": 90,
+      "revenue_cents": 27100,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B21-3",
+      "batch_id": "B21-3",
+      "lost_kg": 4,
+      "sold_kg": 90,
+      "revenue_cents": 27100,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B22-0",
+      "batch_id": "B22-0",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 27200,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B22-1",
+      "batch_id": "B22-1",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 27200,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B22-2",
+      "batch_id": "B22-2",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 27200,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B22-3",
+      "batch_id": "B22-3",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 27200,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B23-0",
+      "batch_id": "B23-0",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 27300,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B23-1",
+      "batch_id": "B23-1",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 27300,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B23-2",
+      "batch_id": "B23-2",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 27300,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B24-0",
+      "batch_id": "B24-0",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 27400,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B24-1",
+      "batch_id": "B24-1",
+      "lost_kg": 7,
+      "sold_kg": 87,
+      "revenue_cents": 27400,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B24-3",
+      "batch_id": "B24-3",
+      "lost_kg": 7,
+      "sold_kg": 87,
+      "revenue_cents": 27400,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B25-0",
+      "batch_id": "B25-0",
+      "lost_kg": 7,
+      "sold_kg": 86,
+      "revenue_cents": 27500,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B25-2",
+      "batch_id": "B25-2",
+      "lost_kg": 7,
+      "sold_kg": 86,
+      "revenue_cents": 27500,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B25-3",
+      "batch_id": "B25-3",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 27500,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B26-1",
+      "batch_id": "B26-1",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 27600,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B26-2",
+      "batch_id": "B26-2",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 27600,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B26-3",
+      "batch_id": "B26-3",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 27600,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B27-0",
+      "batch_id": "B27-0",
+      "lost_kg": 9,
+      "sold_kg": 84,
+      "revenue_cents": 27700,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B27-1",
+      "batch_id": "B27-1",
+      "lost_kg": 10,
+      "sold_kg": 84,
+      "revenue_cents": 27700,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B27-2",
+      "batch_id": "B27-2",
+      "lost_kg": 9,
+      "sold_kg": 84,
+      "revenue_cents": 27700,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B27-3",
+      "batch_id": "B27-3",
+      "lost_kg": 10,
+      "sold_kg": 84,
+      "revenue_cents": 27700,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B28-0",
+      "batch_id": "B28-0",
+      "lost_kg": 3,
+      "sold_kg": 90,
+      "revenue_cents": 27800,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B28-1",
+      "batch_id": "B28-1",
+      "lost_kg": 4,
+      "sold_kg": 90,
+      "revenue_cents": 27800,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B28-2",
+      "batch_id": "B28-2",
+      "lost_kg": 3,
+      "sold_kg": 90,
+      "revenue_cents": 27800,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B28-3",
+      "batch_id": "B28-3",
+      "lost_kg": 4,
+      "sold_kg": 90,
+      "revenue_cents": 27800,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B29-0",
+      "batch_id": "B29-0",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 27900,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B29-1",
+      "batch_id": "B29-1",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 27900,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B29-2",
+      "batch_id": "B29-2",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 27900,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B29-3",
+      "batch_id": "B29-3",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 27900,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B30-0",
+      "batch_id": "B30-0",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 28000,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B30-1",
+      "batch_id": "B30-1",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 28000,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B30-2",
+      "batch_id": "B30-2",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 28000,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B30-3",
+      "batch_id": "B30-3",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 28000,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B31-0",
+      "batch_id": "B31-0",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 28100,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B31-1",
+      "batch_id": "B31-1",
+      "lost_kg": 7,
+      "sold_kg": 87,
+      "revenue_cents": 28100,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B31-2",
+      "batch_id": "B31-2",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 28100,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B31-3",
+      "batch_id": "B31-3",
+      "lost_kg": 7,
+      "sold_kg": 87,
+      "revenue_cents": 28100,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B32-0",
+      "batch_id": "B32-0",
+      "lost_kg": 7,
+      "sold_kg": 86,
+      "revenue_cents": 28200,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B32-1",
+      "batch_id": "B32-1",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 28200,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B32-2",
+      "batch_id": "B32-2",
+      "lost_kg": 7,
+      "sold_kg": 86,
+      "revenue_cents": 28200,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B32-3",
+      "batch_id": "B32-3",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 28200,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B33-0",
+      "batch_id": "B33-0",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 28300,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B33-1",
+      "batch_id": "B33-1",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 28300,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B33-2",
+      "batch_id": "B33-2",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 28300,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B33-3",
+      "batch_id": "B33-3",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 28300,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B34-0",
+      "batch_id": "B34-0",
+      "lost_kg": 9,
+      "sold_kg": 84,
+      "revenue_cents": 28400,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B34-1",
+      "batch_id": "B34-1",
+      "lost_kg": 10,
+      "sold_kg": 84,
+      "revenue_cents": 28400,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B34-2",
+      "batch_id": "B34-2",
+      "lost_kg": 9,
+      "sold_kg": 84,
+      "revenue_cents": 28400,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B34-3",
+      "batch_id": "B34-3",
+      "lost_kg": 10,
+      "sold_kg": 84,
+      "revenue_cents": 28400,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B35-0",
+      "batch_id": "B35-0",
+      "lost_kg": 3,
+      "sold_kg": 90,
+      "revenue_cents": 28500,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B35-1",
+      "batch_id": "B35-1",
+      "lost_kg": 4,
+      "sold_kg": 90,
+      "revenue_cents": 28500,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B35-2",
+      "batch_id": "B35-2",
+      "lost_kg": 3,
+      "sold_kg": 90,
+      "revenue_cents": 28500,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B35-3",
+      "batch_id": "B35-3",
+      "lost_kg": 4,
+      "sold_kg": 90,
+      "revenue_cents": 28500,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B36-0",
+      "batch_id": "B36-0",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 28600,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B36-1",
+      "batch_id": "B36-1",
+      "lost_kg": 5,
+      "sold_kg": 89,
+      "revenue_cents": 28600,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B36-2",
+      "batch_id": "B36-2",
+      "lost_kg": 4,
+      "sold_kg": 89,
+      "revenue_cents": 28600,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B37-0",
+      "batch_id": "B37-0",
+      "lost_kg": 5,
+      "sold_kg": 88,
+      "revenue_cents": 28700,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B37-1",
+      "batch_id": "B37-1",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 28700,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B37-3",
+      "batch_id": "B37-3",
+      "lost_kg": 6,
+      "sold_kg": 88,
+      "revenue_cents": 28700,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B38-0",
+      "batch_id": "B38-0",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 28800,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B38-2",
+      "batch_id": "B38-2",
+      "lost_kg": 6,
+      "sold_kg": 87,
+      "revenue_cents": 28800,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B38-3",
+      "batch_id": "B38-3",
+      "lost_kg": 7,
+      "sold_kg": 87,
+      "revenue_cents": 28800,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B39-1",
+      "batch_id": "B39-1",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 28900,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B39-2",
+      "batch_id": "B39-2",
+      "lost_kg": 7,
+      "sold_kg": 86,
+      "revenue_cents": 28900,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B39-3",
+      "batch_id": "B39-3",
+      "lost_kg": 8,
+      "sold_kg": 86,
+      "revenue_cents": 28900,
+      "recorded_at": "2026-10-30"
+    },
+    {
+      "followup_id": "B40-0",
+      "batch_id": "B40-0",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 29000,
+      "recorded_at": "2026-09-15"
+    },
+    {
+      "followup_id": "B40-1",
+      "batch_id": "B40-1",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 29000,
+      "recorded_at": "2026-09-30"
+    },
+    {
+      "followup_id": "B40-2",
+      "batch_id": "B40-2",
+      "lost_kg": 8,
+      "sold_kg": 85,
+      "revenue_cents": 29000,
+      "recorded_at": "2026-10-15"
+    },
+    {
+      "followup_id": "B40-3",
+      "batch_id": "B40-3",
+      "lost_kg": 9,
+      "sold_kg": 85,
+      "revenue_cents": 29000,
+      "recorded_at": "2026-10-30"
+    }
+  ],
+  "cost_rules": [
+    {
+      "version": "c1",
+      "treatment_cents_per_kg": 12,
+      "transport_cents_per_kg_km": 0.8,
+      "subsidy_cents_per_kg": 5
+    },
+    {
+      "version": "c2",
+      "treatment_cents_per_kg": 15,
+      "transport_cents_per_kg_km": 1.1,
+      "subsidy_cents_per_kg": 5
+    }
+  ],
+  "transfers": [
+    {
+      "transfer_id": "B1-0-field",
+      "stage": "field",
+      "batch_shares": {
+        "B1-0": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-0-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B1-0": 1
+      },
+      "kg_low": 98,
+      "kg_high": 100,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-0-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B1-0": 1
+      },
+      "kg_low": 95,
+      "kg_high": 97,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-1-field",
+      "stage": "field",
+      "batch_shares": {
+        "B1-1": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-1-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B1-1": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-1-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B1-1": 1
+      },
+      "kg_low": 96,
+      "kg_high": 98,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-2-field",
+      "stage": "field",
+      "batch_shares": {
+        "B1-2": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-2-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B1-2": 1
+      },
+      "kg_low": 100,
+      "kg_high": 102,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-2-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B1-2": 1
+      },
+      "kg_low": 95,
+      "kg_high": 97,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-3-field",
+      "stage": "field",
+      "batch_shares": {
+        "B1-3": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-3-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B1-3": 1
+      },
+      "kg_low": 98,
+      "kg_high": 100,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B1-3-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B1-3": 1
+      },
+      "kg_low": 96,
+      "kg_high": 98,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-0-field",
+      "stage": "field",
+      "batch_shares": {
+        "B2-0": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-0-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B2-0": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-0-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B2-0": 1
+      },
+      "kg_low": 95,
+      "kg_high": 97,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-1-field",
+      "stage": "field",
+      "batch_shares": {
+        "B2-1": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-1-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B2-1": 1
+      },
+      "kg_low": 100,
+      "kg_high": 102,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-1-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B2-1": 1
+      },
+      "kg_low": 96,
+      "kg_high": 98,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-2-field",
+      "stage": "field",
+      "batch_shares": {
+        "B2-2": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-2-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B2-2": 1
+      },
+      "kg_low": 98,
+      "kg_high": 100,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-2-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B2-2": 1
+      },
+      "kg_low": 95,
+      "kg_high": 97,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-3-field",
+      "stage": "field",
+      "batch_shares": {
+        "B2-3": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-3-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B2-3": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B2-3-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B2-3": 1
+      },
+      "kg_low": 96,
+      "kg_high": 98,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-0-field",
+      "stage": "field",
+      "batch_shares": {
+        "B3-0": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-0-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B3-0": 1
+      },
+      "kg_low": 100,
+      "kg_high": 102,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-0-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B3-0": 1
+      },
+      "kg_low": 95,
+      "kg_high": 97,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-1-field",
+      "stage": "field",
+      "batch_shares": {
+        "B3-1": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-1-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B3-1": 1
+      },
+      "kg_low": 98,
+      "kg_high": 100,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-1-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B3-1": 1
+      },
+      "kg_low": 96,
+      "kg_high": 98,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-2-field",
+      "stage": "field",
+      "batch_shares": {
+        "B3-2": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-2-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B3-2": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-2-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B3-2": 1
+      },
+      "kg_low": 95,
+      "kg_high": 97,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-3-field",
+      "stage": "field",
+      "batch_shares": {
+        "B3-3": 1
+      },
+      "kg_low": 99,
+      "kg_high": 101,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-3-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B3-3": 1
+      },
+      "kg_low": 100,
+      "kg_high": 102,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "B3-3-outbound",
+      "stage": "outbound",
+      "batch_shares": {
+        "B3-3": 1
+      },
+      "kg_low": 96,
+      "kg_high": 98,
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "recorded_at": "2026-10-31"
+    },
+    {
+      "transfer_id": "shared-inbound",
+      "stage": "inbound",
+      "batch_shares": {
+        "B1-0": 0.5,
+        "B1-1": 0.5
+      },
+      "kg_low": 196,
+      "kg_high": 202,
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "recorded_at": "2026-10-31"
+    }
+  ],
+  "scale_calibration": [
+    {
+      "scale_id": "scale-1",
+      "calibration_group": "week-40",
+      "bias_low_kg": -2,
+      "bias_high_kg": 2
+    },
+    {
+      "scale_id": "scale-2",
+      "calibration_group": "week-41",
+      "bias_low_kg": -0.5,
+      "bias_high_kg": 0.5
+    }
+  ],
+  "paid_records": [
+    {
+      "payment_id": "P1",
+      "batch_id": "B1-0",
+      "paid_cents": 22000,
+      "paid_on": "2026-10-20"
+    }
+  ]
+}
